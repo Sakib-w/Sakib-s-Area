@@ -19,8 +19,8 @@ nav a {
     font-weight: bold;
 }
 body {
-body {
     background-image: url('https://raw.githubusercontent.com/Sakib-w/Sakib-s-Area/main/IMG_7007.JPG');
-    background-size: cover;
-    background-position: center;
+    background-size: cover; /* Makes the image fit the screen */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat;
 }
